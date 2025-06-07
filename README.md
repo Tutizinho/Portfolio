@@ -5,9 +5,9 @@ Atualmente estudando Python e JavaScript, com foco em scripting, automação e e
 
 ## 📚 Estrutura
 
-- **Python/** → Exercícios do curso e eventuais projetos pessoais  
-- **JavaScript/** → Vide acima  
-- **C++/** → BLAZINGLY fast
+- **Python** → Exercícios do curso e eventuais projetos pessoais  
+- **JavaScript** → Vide acima  
+- **C++** → BLAZINGLY fast
 
 ## ✨ Meta
 
